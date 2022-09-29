@@ -1,0 +1,3 @@
+
+zc = read.table('zymo-cellular_quant.sf', sep = '\t', header = T)
+"D:/rock_creek_anlysis/rock_creek_shotgun_sequencing_analysis/metawrap/04182022/zymo/zymo_reference_genome_16s/ZymoBIOMICS.STD.refseq.v2/Genomes/Bacillus_subtilis_complete_genome.fasta"

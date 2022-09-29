@@ -1,0 +1,11 @@
+"","strain","TPM_cellular","TPM_DNA","theoretical_percentage"
+"1","Bacillus_subtilis_complete_genome.fasta",1684.851546,2286.628413,10.3
+"2","Cryptococcus_neoformans_draft_genome.fasta",978160.946994,971635.50106,0.37
+"3","Enterococcus_faecalis_complete_genome.fasta",1283.549996,2271.479173,14.6
+"4","Escherichia_coli_complete_genome.fasta",1671.865061,1205.443613,8.5
+"5","Lactobacillus_fermentum_complete_genome.fasta",3832.433897,4496.060708,21.6
+"6","Listeria_monocytogenes_complete_genome.fasta",479.152646,2616.006795,13.9
+"7","Pseudomonas_aeruginosa_complete_genome.fasta",479.669512,1118.826113,6.1
+"8","Saccharomyces_cerevisiae_draft_genome.fasta",803.828936,4972.740356,0.57
+"9","Salmonella_enterica_complete_genome.fasta",10724.533931,6337.739151,8.7
+"10","Staphylococcus_aureus_complete_genome.fasta",879.16747,3059.57462,15.2

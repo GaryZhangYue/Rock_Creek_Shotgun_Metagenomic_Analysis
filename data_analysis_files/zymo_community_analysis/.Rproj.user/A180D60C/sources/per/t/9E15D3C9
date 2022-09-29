@@ -1,0 +1,27 @@
+{
+    "id": "9E15D3C9",
+    "path": "/Volumes/microbiome/rock_creek_anlysis/rock_creek_shotgun_sequencing_analysis/metawrap/04182022/zymo/quants/zymo_genome_quant.R",
+    "project_path": "zymo_genome_quant.R",
+    "type": "r_source",
+    "hash": "3104988026",
+    "contents": "",
+    "dirty": false,
+    "created": 1650420532438.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "46,0",
+        "scrollLine": "31"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1650649867,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1650649867068,
+    "read_only": false,
+    "read_only_alternatives": []
+}

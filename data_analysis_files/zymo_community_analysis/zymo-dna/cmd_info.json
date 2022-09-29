@@ -1,0 +1,11 @@
+{
+    "salmon_version": "1.5.1",
+    "index": "/home-4/yzhan231@jhu.edu/work/yuezhang/RockCreek/yzhan231_rock_creek_shotgun_p1_analysis/yzhan231_rock_creek_shotgun_p1/PreheimLab_metagenomics_SOP/metawrap_06222021/QUANT_ZYMO_salmon1.5.1/assembly_index",
+    "libType": "A",
+    "mates1": "/home-4/yzhan231@jhu.edu/work/yuezhang/RockCreek/yzhan231_rock_creek_shotgun_p1_analysis/yzhan231_rock_creek_shotgun_p1/PreheimLab_metagenomics_SOP/metawrap_06222021/CLEAN_READS/zymo/zymo-dna_1.fastq",
+    "mates2": "/home-4/yzhan231@jhu.edu/work/yuezhang/RockCreek/yzhan231_rock_creek_shotgun_p1_analysis/yzhan231_rock_creek_shotgun_p1/PreheimLab_metagenomics_SOP/metawrap_06222021/CLEAN_READS/zymo/zymo-dna_2.fastq",
+    "threads": "48",
+    "validateMappings": [],
+    "output": "/home-4/yzhan231@jhu.edu/work/yuezhang/RockCreek/yzhan231_rock_creek_shotgun_p1_analysis/yzhan231_rock_creek_shotgun_p1/PreheimLab_metagenomics_SOP/metawrap_06222021/QUANT_ZYMO_salmon1.5.1/quants/zymo-dna",
+    "auxDir": "aux_info"
+}
